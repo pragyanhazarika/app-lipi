@@ -42,11 +42,11 @@ features                                  :
     
   - title                                 : Personalized Learning
     description                           : Study both sides of the flashcard and change other preferences.
-    fontawesome_icon_name                 : book-open-reader
+    fontawesome_icon_name                 : book-reader
 
   - title                                 : Shared Goals
     description                           : Learn as a family with content that is suitable for all ages.
-    fontawesome_icon_name                 : people-roof
+    fontawesome_icon_name                 : child
 
 
 
